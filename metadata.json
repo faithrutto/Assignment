@@ -1,0 +1,7 @@
+{
+  "name": "LushLocks Hair Care Guide",
+  "description": "An educational and interactive web application providing expert insights into hair growth, personalized care routines, and AI-powered consultations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
